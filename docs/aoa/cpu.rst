@@ -60,7 +60,7 @@ To switch to per-CPU stats, just hit the ``1`` key:
 
 .. image:: ../_static/per-cpu.png
 
-In this case, Glances will show on line per logical CPU on the system.
+In this case, Glances will show one line per logical CPU on the system.
 Logical cores means the number of physical cores multiplied by the number
 of threads that can run on each core (this is known as Hyper Threading).
 
